@@ -33,7 +33,7 @@ global.footer = 'Xdit-MD' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
-global.youtube = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw'
+global.youtube = 'https://instagram.com/hai_om.qw'
 global.ig = 'https://instagram.com/hai_om.qw'
 global.mygc = 'https://syo.vercel.app/x¡/whatsapp'
 global.myweb = 'https://instagram.com/hai_om.qw'
