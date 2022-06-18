@@ -10,7 +10,23 @@ exports.menu = (botname, pushname, salam) => {
 	return`Selamat ${salam} kak ${pushname}
 
 Saya ${botname}, Bot Ini Adalah Beta Multi-Device WhatsApp.
-Jika Kamu Menemukan Semacam Bug Atau Kesalahan Mohon Dimaklumi Dulu Ya, Lapor Owner Agar Segera Di Perbaiki🙏`
+Jika Kamu Menemukan Semacam Bug Atau Kesalahan Mohon Dimaklumi Dulu Ya, Lapor Owner Agar Segera Di Perbaiki🙏
+Info Bot And Device
+RAM:32 GB DDR4//SSD:1 TB
+Prefix:Multi Prefix 
+Vga Brand:NVIDIA GeForce RTX 3090 Ti
+Cpu Brand:AMD Orochi "Bulldozer"
+Prosesor Intel® Core™ 19-12900H
+Graphics Outpot:eDP 1.4b.DP 1.4a,HDMI 2.1
+Max Resolution (DP):7680x4320 @ 60Hz
+Max Resolution (HDMI):4096x2304 @ 60Hz
+Max Turbo Frequency:5.00 GHZ
+Maximum Turbo Power:115W
+Instruction Set:64-bit
+Server Bot:Nasa Private Server
+Baileys Version:9.9.9
+My Istagram:https://instagram.com/hai_om.qw
+My Group:https://syo.vercel.app/x¡/whatsapp`
 }
 
 //—————「 List 」—————//
