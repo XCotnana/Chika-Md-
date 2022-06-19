@@ -82,16 +82,16 @@ global.sp = '⭔'
 //—————「 Set Message 」—————//
 //terserah mau ubah apa nggak, note : tanda ' gausah di hapus!
 global.mess = {
-success: '_Done Deckk._',
-admin: 'Bukan Admin Ngatur Lagi!_',
-botAdmin: '_Bot Harus Menjadi Admin Terlebih Dahulu Deckk!_',
-owner: '_Ga Usah Ngatur Deckk_',
-group: '_Fitur Digunakan Hanya Untuk Group!_',
-private: '_Fitur Digunakan Hanya Untuk Private Chat!_',
-bot: '_Fitur Khusus Pengguna Nomor Bot_',
-wait: '_Sedang Di Proses Deckk..._',
-error: '_Fitur Sedang Error!_',
-endLimit: '_Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12_',
+success: 'Done Deckk',
+admin: 'Bukan Admin Ngatur Lagi!',
+botAdmin: 'Bot Harus Menjadi Admin Terlebih Dahulu Deckk!',
+owner: 'Ga Usah Ngatur Deckk!',
+group: 'Fitur Digunakan Hanya Untuk Group!',
+private: 'Fitur Digunakan Hanya Untuk Private Chat!',
+bot: 'Fitur Khusus Pengguna Nomor Bot',
+wait: 'Sedang Di Proses Deckk...',
+error: 'Fitur Sedang Error!',
+endLimit: 'Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12',
 }
 
 //—————「 Batas Akhir 」—————//
