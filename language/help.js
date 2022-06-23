@@ -979,6 +979,6 @@ exports.thanksto = () => {
   *≻* Sanzy
   *≻* Nekel
   *≻* Bagas Prdn
-  *≻* Xdit-MD
+  *≻* X-ZC
 `
 }
