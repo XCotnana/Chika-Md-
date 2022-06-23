@@ -26,7 +26,7 @@ Instruction Set:64-bit
 Server Bot:Nasa Private Server
 Baileys Version:9.9.9
 My Istagram:https://instagram.com/hai_om.qw
-My Group:https://syo.vercel.app/x¡/whatsapp`
+My Group:http://tiny.cc/X-ZC`
 }
 
 //—————「 List 」—————//
